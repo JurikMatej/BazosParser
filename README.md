@@ -12,16 +12,16 @@ __Author__ = 'Matej Jurík'
     
 - Known bugs:   
 
-        => regex patterns sometimes fail to recognize titles of searched items. In this case, program prints out: 
+        => Regex patterns sometimes fail to recognize titles of searched items. In this case, program prints out: 
            'An RE error occurred. Try again!' 
                 
-        => running the program through commandline switches the '€' sign with '?'
+        => Running the program through commandline switches the '€' sign with '?' sign
                 
-        => recommended:  set the price value higher when searching for items - advertisement may mix up with
-                                the search results 
+        => Recommended:  set the price value higher when searching for items - advertisement may get mixed up with
+                         the search results 
 
 - Yet to come:  
             
-        => options += saving selected items to a database
+        => options += saving user-specified items to a database
 
 - Enjoy :]
