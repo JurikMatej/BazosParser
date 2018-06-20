@@ -1,14 +1,14 @@
 # BazosParser
 __Author__ = 'Matej Jurík'
 
-- Program looks for and outputs searched items through Bazoš.sk
+- Program looks for searched items through Bazoš.sk and outputs their title and price
 - How to use (input):
 
-        => auto (searched item)
-        => púchov (area to search in)
-        => 25 (search radius - km)
-        => 2000 4000 (price: from - to)
-        => fromcheapest || frommostexpensive || maxviews (sorting - type in one of three choices)
+        => 'auto' (searched item)
+        => 'púchov' (area to search in)
+        => '25' (search radius - km)
+        => '2000 4000' (price: from - to)
+        => 'fromcheapest' || 'frommostexpensive' || 'maxviews' (sorting - type in one of three choices)
     
 - Known bugs:   
 
@@ -22,6 +22,6 @@ __Author__ = 'Matej Jurík'
 
 - Yet to come:  
             
-        => +options >>> saving selected items to a database
+        => options += saving selected items to a database
 
 - Enjoy :]
