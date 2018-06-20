@@ -13,7 +13,7 @@ __Author__ = 'Matej Jurík'
 - Known bugs:   
 
         => regex patterns sometimes fail to recognize titles of searched items and prints 'An RE error occurred. 
-                  Try again!' 
+           Try again!' 
                 
         => running the program through commandline switches the '€' sign with '?'
                 
