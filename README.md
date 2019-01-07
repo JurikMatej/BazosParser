@@ -1,5 +1,5 @@
 # BazosParser
-__Author__ = 'Matej Jurík'
+__Author__ = Matej Jurík
 
 - Program looks for searched items through Bazoš.sk and outputs their title and price
 - How to use (input):
